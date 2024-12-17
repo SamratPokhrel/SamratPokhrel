@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on github
 - 📫 How to reach me Dm me at disocrd: ahnisback
-- 😄 Pronouns: Heya im a Minecraft server manager developer wnd admin i am currently working on cloud mc and airstrike mc with admin role
+- 😄 Pronouns: Heya im a Minecraft server manager developer and also expert in websites work nodejs c++ javascript pyhon golang
 - ⚡ Fun fact: nothing
 
 <!---
